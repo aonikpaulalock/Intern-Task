@@ -2,7 +2,7 @@ import React from 'react';
 
 const ImageGrid = ({data}) => {
   return (
-    <div>
+    <div className=' ease-in duration-1000 hover:scale-105 hover:translate-x-3 cursor-pointer'>
       <div className='grid grid-cols-6 grid-rows-2 gap-3'>
         <div className='col-span-4 row-span-6' >
           <img src={data.image[0].img1} alt="" className='rounded-tl-md' />
