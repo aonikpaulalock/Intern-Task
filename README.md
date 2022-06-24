@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Section was Tailwind with(https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Some Feature
+* Create simple card section and using react .
+* Using Some Animation with Aos . 
 
 In the project directory, you can run:
 
