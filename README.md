@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# Live Site 
 
-This Section was Tailwind with(https://beamish-maamoul-5c7b7c.netlify.app).
+This Section was Tailwind with (https://beamish-maamoul-5c7b7c.netlify.app).
 
 ## Some Feature
+
 * Create simple card section and using react .
 * Using Some Animation with Aos . 
 
-In the project directory, you can run:
+
 
 ### `npm start`
 
