@@ -2,7 +2,13 @@ import React from 'react';
 
 const ButtonGroup = () => {
   return (
-    <div className='flex items-center cursor-pointer pt-3'>
+    <div className='flex items-center cursor-pointer pt-3'
+    data-aos="fade-down"
+    data-aos-easing="linear"
+    data-aos-duration="1500"
+    data-aos-delay="4000"
+    
+    >
       <button className='rounded-full bg-indigo-600 text-white lg:px-10 py-2 px-6 flex justify-center font-medium'>See Class Sehedule
         <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
           <path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7" />
